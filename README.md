@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In this task you will be working on a todo application made using NextJS a SSR framework for ReactJS. The main motive of this task is to make you familiar with:
+Here is the change
 
 - Data Fetching and Rendering
 - Component Creation
